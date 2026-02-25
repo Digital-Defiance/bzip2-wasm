@@ -1,6 +1,6 @@
 {
   "name": "@digitaldefiance/bzip2-wasm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "compress and decompress bzip2 buffers in node and browser",
   "main": "index.js",
   "types": "index.d.ts",

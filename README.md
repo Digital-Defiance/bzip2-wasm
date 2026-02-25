@@ -3,6 +3,8 @@
 (de)compress buffers in node and browser using wasm-compiled
 [bzip2](https://sourceware.org/bzip2/).
 
+re-published identically from source, with the addition of typescript definitions added by Digital Defiance.
+
 ## install
 
     $ npm install bzip2-wasm
